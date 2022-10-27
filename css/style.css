@@ -1,0 +1,171 @@
+body{
+    margin:0px;
+    text-align:center;
+    color:black;
+    font-family: fangsong;
+}
+h1{
+    font-size: 60px;
+    color: #122051;
+}
+video{
+    position: absolute;
+    width: 1349px;
+    margin-left: -675px;
+}
+.form_search{
+    position: absolute;
+    margin-left: 177px;
+    margin-top: 140px;
+}
+header{
+    position: absolute;
+    width: 1349px;
+    height: 50px;
+    background-color: white;
+    box-shadow: -1px 10px #564b64;
+}
+ul {
+    list-style-type: none;
+    color: #121f51;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: left;
+    margin-left: 1065px;
+    margin-top: 13px;
+  }
+  li{
+    margin-right: 50px;
+  }
+
+  .form_search form{
+      color:white;
+  }
+  .form_search form select{
+    width: 185px;
+    height: 35px;
+    border: 3px solid #122051;
+    color:#122051;
+    padding: 5px;
+    margin-right: 23px;
+  }
+  .form_search form input[type=date]{
+    width: 185px;
+    height: 35px;
+    border: 3px solid #122051;
+    padding: 5px;
+  }
+  .form_search form input[type=submit]{
+    width: 185px;
+    height: 35px;
+    border: 3px solid #122051;
+    padding: 5px;
+    color: white;
+    background-color: #564b64;
+    margin-top:10px;
+  }
+  .form_search  .form2 input[type=submit]{
+    width: 185px;
+    height: 35px;
+    border: 3px solid #122051;
+    padding: 5px;
+    color: white;
+    background-color: #564b64;
+  }
+  .form_search .form2 input[type=text]{
+    width: 389px;
+    height: 35px;
+    border: 3px solid #122051;
+    padding: 5px;
+    margin-right: -10px;
+    margin-top: 45px;
+  }
+  .form_search .form2{
+    margin-top:30px;
+}
+header a:hover {
+    color: #564b64;
+    text-decoration: underline;
+  }
+  header a{
+    color: #122051;
+    text-decoration: none;
+  }
+
+  #form{
+    position: absolute;
+    margin-top: 170px;
+  }
+#form form{
+    width: 715px;
+}
+#form table{
+    width: 1000px;
+    height: auto;
+    margin-left: 185px;
+    margin-top: 65px;
+    background-color: #f9f9f9;
+}
+#form table tr{
+    text-align: center;
+}
+#form table td{
+    padding: 10px;
+    color: black;
+    font-weight: 900;
+    border: 1px solid black;
+}
+#form table #first td{
+    padding: 10px;
+    color: #122051;
+    font-weight: 900;
+    border: 1px solid black;
+}
+#form input[type=submit]{
+    width: 185px;
+    height: 35px;
+    border: 3px solid #edeff3;
+    padding: 5px;
+    color: white;
+    background-color: #564b64;
+    margin-top: 10px;
+    margin-left: 612px;
+}
+button{
+    width: 185px;
+    height: 35px;
+    border: 3px solid #edeff3;
+    padding: 5px;
+    color: white;
+    background-color: #564b64;
+    margin-top: 190px;
+    position: absolute;
+    margin-left: -84px;
+}
+h5{
+    color:green;
+}
+.insert{
+    border: 1px solid green;
+    background-color: #e6eef1;
+    position: absolute;
+    margin-top: 110px;
+    MARGIN-LEFT: 385px;
+}
+.info{
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 475px;
+    font-size: 30px;
+    border: 1px solid black;
+    padding: 25px;
+}
+.info  input[type=submit]{
+    width: 185px;
+    height: 35px;
+    border: 3px solid #edeff3;
+    padding: 5px;
+    color: white;
+    background-color: #564b64;
+}
